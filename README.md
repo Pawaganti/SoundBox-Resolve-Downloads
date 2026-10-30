@@ -2,16 +2,16 @@
 
 # 声匣 SoundBox · 达芬奇插件与独立版下载
 
-**支持独立运行的 DaVinci Resolve 音频素材管理与预览插件。**
+**声匣 SoundBox 是一款可独立运行、也可与 DaVinci Resolve 配合使用的音频素材管理与预览工具。用户可在独立界面整理、搜索和试听音频，将所选音频导入达芬奇项目媒体池或时间线；同时支持批量音频转码、波形定位、选区导出、星级收藏及颜色标签整理。**
 
 Windows 64 位版本。可独立运行，也可从 DaVinci Resolve「工作流整合」启动。
 
 ## 下载与分享
 
-- **[最新版本下载页](https://github.com/Pawaganti/SoundBox-Downloads/releases/latest)**：适合长期收藏和分享。
-- [v1.1.2 版本记录](https://github.com/Pawaganti/SoundBox-Downloads/releases/tag/v1.1.2)
-- **[直接下载 v1.1.2 Windows 运行包](https://github.com/Pawaganti/SoundBox-Downloads/releases/download/v1.1.2/SoundBox-v1.1.2-win32-x64.zip)**
-- [SHA-256 校验文件](https://github.com/Pawaganti/SoundBox-Downloads/releases/download/v1.1.2/SHA256SUMS.txt)
+- **[最新版本下载页](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/latest)**：适合长期收藏和分享。
+- [v1.1.2 版本记录](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/tag/v1.1.2)
+- **[直接下载 v1.1.2 Windows 运行包](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/download/v1.1.2/SoundBox-v1.1.2-win32-x64.zip)**
+- [SHA-256 校验文件](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/download/v1.1.2/SHA256SUMS.txt)
 
 本仓库及下载包公开可访问，访问者无需加入私有仓库；通常不需要登录 GitHub。
 
