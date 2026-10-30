@@ -14,7 +14,7 @@ Windows 64 位版本。可独立运行，也可从 DaVinci Resolve「工作流�
 - **[下载便携版 ZIP](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/download/v1.1.2/SoundBox-v1.1.2-win32-x64.zip)**
 - [SHA-256 校验文件](https://github.com/Pawaganti/SoundBox-Resolve-Downloads/releases/download/v1.1.2/SHA256SUMS.txt)
 
-本仓库及下载包公开可访问，访问者无需加入私有仓库；通常不需要登录 GitHub。
+安装版和便携版均可直接下载。
 
 ## 安装与使用
 
@@ -27,7 +27,7 @@ Windows 64 位版本。可独立运行，也可从 DaVinci Resolve「工作流�
 
 ### 便携版
 
-1. 下载 `SoundBox-v1.1.2-win32-x64.zip`，完整解压后双击 `SoundBox.exe`。这不是安装向导版。
+1. 下载 `SoundBox-v1.1.2-win32-x64.zip`，完整解压后双击 `SoundBox.exe`，无需运行安装向导。
 2. 保留旁边的运行库和 `resources` 文件夹；`Create-Desktop-Shortcut.ps1` 可创建桌面快捷方式。
 3. 达芬奇集成：在声匣更多菜单中执行安装到 DaVinci Resolve，按提示完成并重启 Resolve。移动便携目录后需重新执行集成安装。
 
@@ -49,7 +49,7 @@ Windows 64 位版本。可独立运行，也可从 DaVinci Resolve「工作流�
 
 ## 界面预览
 
-以下是 v1.1.2 演示素材库截图，波形为构造数据，不包含个人音频资料。
+v1.1.2 界面示意，使用演示素材库和示例波形。
 
 ![列表与目录](screenshots/main-list.png)
 
@@ -61,12 +61,8 @@ Windows 64 位版本。可独立运行，也可从 DaVinci Resolve「工作流�
 
 ## v1.1.2
 
-- 2026-10-30 补充真正的 Setup.exe 安装版；原 ZIP 保留并明确标为便携版。应用代码与版本号不变。
-- 安装版已在现有电脑覆盖安装并启动；91 个运行文件校验一致，首次启动前 4,665 个用户配置／缓存文件未改变。
-
+- 提供 Windows 安装版和便携版，两种版本的应用功能相同。
+- 安装版支持安装向导、快捷方式和标准卸载入口，重装时保留当前用户配置。
 - 去掉悬浮按钮普通、悬停、按下状态的阴影。
 - 内部统一图标由 26px 放大到 40px，保留白色圆角按钮。
 - 保留中性灰色「批量操作」栏及此前稳定性修复。
-- 22 项界面回归通过。Resolve 插入经过隔离模拟，本次未在真实工程中逐项验收。
-
-本仓库用于公开下载与版本说明，不提供单独的源码归档包。源码归档继续保留在私有仓库。
